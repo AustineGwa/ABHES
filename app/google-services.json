@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1005191417684",
+    "firebase_url": "https://abhes-ebe20.firebaseio.com",
+    "project_id": "abhes-ebe20",
+    "storage_bucket": "abhes-ebe20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005191417684:android:8ca67a35dbe12895",
+        "android_client_info": {
+          "package_name": "com.gwazasoftwares.abhes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005191417684-qobs2mn5moq4mvtc8nblncr9lnbgathg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gwazasoftwares.abhes",
+            "certificate_hash": "935307ef51bf9d196c9adf4deb6d9bddf1a0415b"
+          }
+        },
+        {
+          "client_id": "1005191417684-koiskrk5s6tm1q1jcq9385ge432l5lis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxzN47ktv4BudCQRXdgrn-SyJ6U7ZVQTw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005191417684-koiskrk5s6tm1q1jcq9385ge432l5lis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
